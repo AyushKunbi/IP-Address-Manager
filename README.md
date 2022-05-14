@@ -57,7 +57,7 @@ To access the site, please go to "http://localhost:4200/"
 - Run the command `$ ng serve` to run the project in 4200 port.
  
   ## Tech
- This project uses various other open source project to work properly.
+ 
  [Angular](https://angular.io/) - Frontend
  
  [Laravel](https://laravel.com/) - Backend
