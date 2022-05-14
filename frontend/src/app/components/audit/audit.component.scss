@@ -1,0 +1,25 @@
+
+#ipaudit{
+  -webkit-backdrop-filter: blur(10px); /* Safari 9+ */
+  backdrop-filter: blur(25px); /* Chrome and Opera */
+  background-color: rgba(255, 255, 255, 0.3);
+  color: white;
+ 
+}
+
+.container{
+  margin-top: 30px;
+}
+
+.card{
+  overflow: auto;
+}
+#size1{
+  background: url("/assets/images/hero.png")   ;
+overflow: scroll;
+background-size: cover;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+
+}
